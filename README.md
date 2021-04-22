@@ -3,7 +3,7 @@
 # Assembly Playground
 ## Description
 
-Implementation of some well known C functions to improve my assembly skills.
+Implementation of some well known C functions to improve my assembly skills.<br>
 The Makefile uses [NASM](https://en.wikipedia.org/wiki/Netwide_Assembler) to assemble object files and [ld](https://en.wikipedia.org/wiki/GNU_linker) for linking them into a shared library.
 
 ## Usage
@@ -34,4 +34,5 @@ Do not forget to specify the path of our library :
 - **[memcpy](https://man7.org/linux/man-pages/man3/memcpy.3.html)**
 - **[memmove](https://man7.org/linux/man-pages/man3/memmove.3.html)**
 - **[memset](https://man7.org/linux/man-pages/man3/memset.3.html)**
+
 
